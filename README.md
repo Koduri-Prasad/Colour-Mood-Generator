@@ -24,12 +24,6 @@ Each click on the **"Generate Mood"** button surprises you with a new emotion, c
 - `CSS3` for styling and transitions  
 - `JavaScript` for logic and interactivity  
 
----
-
-##  Preview
-
-![Preview Screenshot](https://koduri-prasad.github.io/Colour-Mood-Generator/screenshot.png)  
-<sub>*Update with real screenshot path if needed*</sub>
 
 ---
 
