@@ -18,7 +18,7 @@ Each click on the **"Generate Mood"** button surprises you with a new emotion, c
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - `HTML5` for structure  
 - `CSS3` for styling and transitions  
@@ -26,7 +26,7 @@ Each click on the **"Generate Mood"** button surprises you with a new emotion, c
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Preview Screenshot](https://koduri-prasad.github.io/Colour-Mood-Generator/screenshot.png)  
 <sub>*Update with real screenshot path if needed*</sub>
